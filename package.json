@@ -13,6 +13,7 @@
     "stylelint-config-standard": "^22.0.0"
   },
   "scripts": {
+    "test": "exit 0",
     "sasslint": "stylelint '**/*.scss'",
     "sasslint:fix": "stylelint '**/*.scss' --fix",
     "prettier": "prettier '**/*' --check",
