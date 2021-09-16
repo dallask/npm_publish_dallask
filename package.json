@@ -23,7 +23,12 @@
     "eslint:fix": "eslint '**/*.js' --fix"
   },
   "files": [
-    "dist/*"
+    "dist/.eslintignore",
+    "dist/.eslintrc.json",
+    "dist/.prettierignore",
+    "dist/.prettierrc.json",
+    "dist/.stylelintignore",
+    "dist/.stylelintrc.json",
   ],
   "author": "",
   "license": "ISC"
