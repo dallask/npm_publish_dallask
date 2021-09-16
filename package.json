@@ -28,7 +28,7 @@
     "dist/.prettierignore",
     "dist/.prettierrc.json",
     "dist/.stylelintignore",
-    "dist/.stylelintrc.json",
+    "dist/.stylelintrc.json"
   ],
   "author": "",
   "license": "ISC"
