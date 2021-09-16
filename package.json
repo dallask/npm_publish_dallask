@@ -20,6 +20,9 @@
     "eslint": "eslint '**/*.js'",
     "eslint:fix": "eslint '**/*.js' --fix"
   },
+  "files": [
+    ".eslintignore"
+  ],
   "author": "",
   "license": "ISC"
 }
